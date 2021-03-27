@@ -12,7 +12,7 @@ const App = () => {
   return (
     <SafeAreaView style={styles.flex1}>
       <View style={styles.sectionContainer}>
-        <Text style={styles.sectionTitle}>r04, L3G. npm, app upd, JS.</Text>
+        <Text style={styles.sectionTitle}>t04/abi, L3R. npm, app upd, JS.</Text>
         <Text style={styles.sectionDescription}>
           Edit <Text style={styles.highlight}>App.tsx</Text> to change this
           screen and then come back to see your edits.
